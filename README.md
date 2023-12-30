@@ -1,10 +1,10 @@
-# Welcome to the ACCESS32 Centre of Excellence (CoE)
+# Welcome to the ACCESS32 open data and open source Centre of Excellence (CoE).
 
-The first global open source centre of excellence intended to make sense of and bring consistency to methods, concepts and tools.
+A global initiative to create and deliver the first universally recognised open source framework for consistency to methods, concepts, tools and engagement.
 
-Considering, planning and implementing:
+With consideration, planning, stakeholder engagement, sense, validation and context, we intend to deliver:
 
-> a universally recognised framework to be adopted as mainstream goto with thte intent to introduce and align for mainstream use.
+> a framework to be adopted as the mainstream GOTO.
 > introduce clusters and nodes
 > share and leverage from like minded
 > lessons learned
