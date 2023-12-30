@@ -2,9 +2,10 @@
 
 A global initiative to create and deliver the first universally recognised open source framework for consistency to methods, concepts, tools and engagement.
 
-With consideration, planning, stakeholder engagement, sense, validation and context, we intend to deliver:
+With consideration, planning, stakeholder engagement, sense, validation and context, we intend to meet the following tasks:
 
-> a framework to be adopted as the mainstream GOTO.
+> reduce confusion
+> create a framework to be adopted as the mainstream GOTO.
 > introduce clusters and nodes
 > share and leverage from like minded
 > lessons learned
